@@ -6,7 +6,7 @@
 - ⚡Nesse momento estou estudando HTML5, CSS3 e Javascript,
 - 😄 Pronouns: Ele/Dele.
 
- 📫 Email: murilogomes2006@hotmail.com.
+ 📫 Email: murilogomes2006@hotmail.com
 
 
 <picture>
