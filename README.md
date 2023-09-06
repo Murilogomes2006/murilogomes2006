@@ -1,9 +1,9 @@
 ### Olá, eu sou o Murilo.
 
 
-- 🔭 Atualmente trabalho como operador CNC, fabricando peças para o ramo automotivo,
+- 🔭 Atualmente trabalho CNC Machining Manufacturing,
 - 🌱 Irei me tornar um Full-Stack,
-- ⚡Nesse momento estou cursando ADS (Análise e desenvolvimento de sistemas) HTML5, CSS3 e Javascript,
+- ⚡Nesse momento estou cursando ADS (Análise e desenvolvimento de sistemas).
 - 😄 Pronouns: Ele/Dele.
 
  📫 Email: murilogomes2006@hotmail.com
